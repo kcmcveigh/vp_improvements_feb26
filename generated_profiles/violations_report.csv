@@ -1,0 +1,5 @@
+profile_id,target_score,actual_total_score,rule_type,rule,detail
+61,7,7,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+139,8,8,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+400,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
+463,7,7,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)

@@ -1,0 +1,488 @@
+profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situation,communication_style,target_score,actual_total_score,DEPRESSED_MOOD,WORK_AND_ACTIVITIES,INSOMNIA_EARLY,INSOMNIA_MIDDLE,INSOMNIA_LATE,FEELINGS_OF_GUILT,SUICIDE,ANXIETY_PSYCHIC,ANXIETY_SOMATIC,SOMATIC_SYMPTOMS_GASTROINTESTINAL,SOMATIC_SYMPTOMS_GENERAL,GENITAL_SYMPTOMS,HYPOCHONDRIASIS,LOSS_OF_WEIGHT
+0,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,17,17,1,0,2,2,1,0,0,2,2,2,1,0,2,2
+1,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,17,17,1,0,2,2,2,0,0,1,2,2,2,1,1,1
+2,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,5,5,0,0,0,0,0,0,0,0,1,1,0,0,1,2
+3,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,4,4,0,0,1,1,0,0,0,1,1,0,0,0,0,0
+4,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,24,24,2,3,0,1,2,3,2,2,2,2,1,1,1,2
+5,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+6,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,13,13,1,0,0,0,2,0,0,2,1,1,1,2,2,1
+7,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,37,37,4,2,2,2,2,3,3,4,4,2,2,2,3,2
+8,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+9,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,15,15,1,0,1,2,0,0,0,4,1,1,0,2,1,2
+10,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,19,19,1,0,2,2,1,0,0,4,0,2,1,2,2,2
+11,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,4,4,0,0,0,0,0,0,0,1,1,0,0,1,1,0
+12,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,8,8,0,0,0,1,0,0,0,2,0,0,1,2,0,2
+13,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,27,27,2,2,2,2,2,3,2,4,1,1,2,2,1,1
+14,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+15,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,8,8,0,0,1,1,0,0,0,0,1,1,0,2,0,2
+16,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,34,34,3,2,2,2,2,3,1,4,4,2,2,2,3,2
+17,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,21,21,2,1,2,2,2,3,1,0,0,1,2,1,3,1
+18,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,23,23,2,1,1,2,2,2,0,4,1,2,2,2,1,1
+19,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,30,30,3,4,2,2,1,1,1,3,4,2,2,2,1,2
+20,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,20,20,2,3,2,0,0,3,3,2,1,1,1,0,2,0
+22,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,17,17,1,0,2,2,2,0,0,2,0,2,2,2,2,0
+23,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,21,21,2,2,0,1,2,3,3,2,2,0,1,1,1,1
+24,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,16,16,1,0,1,2,2,0,0,4,0,0,1,2,1,2
+25,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,9,9,0,0,2,1,0,0,0,1,1,0,2,0,0,2
+26,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,21,21,2,3,2,1,0,2,3,1,3,2,2,0,0,0
+27,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,20,20,2,2,1,2,1,2,1,0,3,2,1,1,0,2
+29,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,23,23,2,1,1,2,2,2,2,1,3,0,2,1,2,2
+30,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,9,9,0,0,1,0,1,0,0,1,1,2,1,0,2,0
+31,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,7,7,0,0,1,1,0,0,0,0,0,0,2,1,2,0
+32,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,17,17,1,0,2,1,2,0,0,1,2,0,2,2,3,1
+33,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,17,17,1,0,2,0,2,0,0,3,3,0,0,1,3,2
+34,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,7,7,0,0,2,0,1,0,0,2,1,0,0,0,1,0
+35,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,8,8,0,0,2,1,0,0,0,2,1,1,0,0,1,0
+36,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,5,5,0,0,0,0,1,0,0,0,1,0,1,0,1,1
+37,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,3,3,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+38,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,16,16,1,0,1,1,0,0,0,3,2,1,2,1,2,2
+39,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,14,14,1,0,1,1,2,0,0,2,1,2,1,2,0,1
+40,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,11,1,0,0,2,1,0,0,3,0,0,2,1,0,1
+41,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,6,6,0,0,2,1,0,0,0,1,0,0,2,0,0,0
+42,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,17,17,1,0,2,2,2,0,0,1,0,2,1,2,2,2
+43,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,3,3,0,0,0,0,0,0,0,0,1,0,0,0,2,0
+44,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+45,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,32,32,3,2,2,2,2,2,3,4,4,2,2,2,2,0
+46,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,33,33,3,4,2,2,2,1,2,3,4,2,2,2,3,1
+47,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,22,22,2,2,0,1,1,3,2,2,0,1,2,2,2,2
+48,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,36,36,4,4,2,2,2,2,1,4,4,2,2,2,3,2
+49,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,36,36,3,4,2,2,2,3,3,3,3,2,2,2,3,2
+50,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,39,39,4,4,2,2,2,4,2,4,4,2,2,2,3,2
+51,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,22,22,2,3,1,2,2,3,2,1,0,2,1,1,0,2
+52,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,37,37,4,3,2,2,2,4,1,4,4,2,2,2,3,2
+53,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,4,4,0,0,0,0,0,0,0,0,1,2,0,0,0,1
+54,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,11,11,1,0,1,1,1,0,0,0,3,1,0,2,1,0
+55,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,39,39,3,4,2,2,2,3,4,4,4,2,2,2,3,2
+56,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,21,21,2,1,2,0,2,3,3,1,1,1,0,2,1,2
+57,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,23,23,2,1,1,2,2,2,3,1,3,1,2,1,1,1
+58,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,16,16,1,0,1,1,2,0,0,1,2,2,2,2,2,0
+59,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,38,38,4,3,2,2,2,2,4,4,4,2,2,2,3,2
+60,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,11,1,0,0,0,2,0,0,0,1,1,2,1,2,1
+61,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,18,18,1,0,2,2,2,0,0,0,1,1,2,2,3,2
+62,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,29,29,2,2,2,2,0,2,3,3,4,2,2,2,2,1
+63,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,10,10,1,0,1,0,0,0,0,2,0,0,2,1,1,2
+64,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,24,24,2,2,2,2,2,3,1,1,2,1,2,0,3,1
+65,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,37,37,4,4,2,2,2,1,3,4,4,2,2,2,3,2
+66,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,28,28,2,2,2,2,2,1,1,2,3,2,2,2,3,2
+67,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,8,8,0,0,0,2,1,0,0,2,2,0,0,1,0,0
+68,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,35,35,3,4,1,2,2,3,3,4,4,2,2,2,3,0
+69,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,32,32,3,3,2,2,2,3,2,3,2,2,2,2,2,2
+70,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,35,35,4,3,2,2,2,3,0,4,4,2,2,2,3,2
+71,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,18,18,1,0,2,1,2,0,0,1,2,2,2,1,3,1
+72,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,3,3,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+73,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,7,7,0,0,2,1,0,0,0,2,0,1,0,0,0,1
+74,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,27,27,2,1,2,2,2,1,1,4,2,2,1,2,3,2
+75,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,30,30,3,4,2,2,1,3,3,3,4,1,0,1,3,0
+76,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,6,6,0,0,0,0,0,0,0,1,0,2,0,0,2,1
+77,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,29,29,2,1,2,2,2,1,1,4,3,2,2,2,3,2
+78,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,9,9,0,0,1,0,0,0,0,0,1,2,2,1,2,0
+79,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+80,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,32,32,3,2,2,2,2,2,3,4,2,2,2,2,3,1
+81,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,18,18,1,0,1,2,2,0,0,1,3,2,0,2,3,1
+82,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,21,21,2,3,2,0,2,3,3,2,0,1,1,1,1,0
+83,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,13,13,1,0,0,2,1,0,0,1,2,2,1,1,2,0
+84,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,26,26,2,1,2,2,2,2,2,2,3,2,1,2,1,2
+85,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,13,13,1,0,2,2,0,0,0,1,2,2,1,1,0,1
+87,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,32,32,3,3,2,2,2,0,1,4,4,2,2,2,3,2
+88,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,40,40,4,4,2,2,2,3,4,4,4,2,2,2,3,2
+89,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,38,38,4,4,2,2,2,3,2,4,4,2,2,2,3,2
+90,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,15,15,1,0,1,1,2,0,0,1,3,0,1,1,2,2
+91,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,18,18,1,0,2,2,1,0,0,1,3,2,2,2,0,2
+92,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+94,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,4,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+96,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,23,23,2,2,1,1,2,2,2,0,1,2,2,2,2,2
+97,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,32,32,3,3,2,2,2,3,3,3,0,2,2,2,3,2
+98,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,28,28,2,1,2,2,2,0,0,4,4,2,2,2,3,2
+99,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,22,22,2,2,2,1,2,1,1,1,1,2,2,2,2,1
+101,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,33,33,3,4,2,2,2,2,2,2,3,2,2,2,3,2
+102,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,33,33,3,2,2,2,2,2,3,4,2,2,2,2,3,2
+103,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,36,36,3,4,2,2,2,3,1,4,4,2,2,2,3,2
+104,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,25,25,2,3,2,2,2,3,2,0,2,2,2,2,1,0
+105,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,30,30,3,2,2,1,2,2,2,4,1,2,2,2,3,2
+107,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,22,22,2,2,1,2,0,3,0,1,2,2,2,2,2,1
+108,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,15,15,1,0,1,2,0,0,0,0,3,2,2,2,1,1
+109,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,8,8,0,0,0,1,1,0,0,0,1,2,1,0,1,1
+110,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,37,37,4,4,2,2,2,2,2,4,4,2,2,2,3,2
+111,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,37,37,4,4,2,2,2,2,2,4,4,2,2,2,3,2
+112,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,10,10,1,0,1,0,2,0,0,2,1,0,0,2,1,0
+113,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,24,24,2,1,2,2,2,2,2,2,0,2,2,1,3,1
+114,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,6,6,0,0,0,2,1,0,0,0,0,0,0,2,1,0
+115,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,40,40,4,3,2,2,2,4,4,4,4,2,2,2,3,2
+116,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,28,28,2,3,2,1,1,3,2,3,0,2,2,2,3,2
+117,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,38,38,3,3,2,2,2,3,4,4,4,2,2,2,3,2
+118,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,15,15,1,0,2,1,0,0,0,1,0,2,2,1,3,2
+119,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,36,36,3,4,2,2,2,2,2,4,4,2,2,2,3,2
+120,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+121,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,18,18,1,0,2,1,0,0,0,2,2,2,2,2,2,2
+122,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,2,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+123,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,12,12,1,0,1,1,0,0,0,1,2,1,2,0,1,2
+124,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,15,15,1,0,2,2,2,0,0,1,0,2,1,0,3,1
+125,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,26,26,2,2,2,2,2,2,2,3,0,2,0,2,3,2
+126,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,25,25,2,3,1,2,0,3,3,3,2,0,1,1,2,2
+127,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,24,24,2,1,2,2,2,2,3,1,4,2,0,1,1,1
+128,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,18,18,1,0,2,1,2,0,0,1,3,1,0,2,3,2
+129,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,33,33,3,2,2,2,2,1,2,4,4,2,2,2,3,2
+130,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,20,20,2,1,2,2,0,1,0,3,1,1,2,2,3,0
+131,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,28,28,3,2,2,1,2,0,3,4,2,1,2,1,3,2
+132,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,16,16,1,0,0,1,2,0,0,1,3,2,2,1,1,2
+133,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,26,26,2,3,2,2,1,0,0,2,3,2,2,2,3,2
+134,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,37,37,3,4,2,2,2,3,2,4,4,2,2,2,3,2
+135,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,24,24,2,1,1,0,2,3,0,2,3,1,2,2,3,2
+136,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,12,12,1,0,1,2,2,0,0,1,2,0,0,1,0,2
+137,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,15,15,1,0,0,2,1,0,0,2,3,2,1,0,1,2
+138,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,14,14,1,0,1,0,2,0,0,3,1,2,2,1,1,0
+139,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,28,28,2,1,2,2,2,3,3,1,3,2,2,1,3,1
+140,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,36,36,4,4,2,2,2,2,1,4,4,2,2,2,3,2
+141,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,15,15,1,0,2,2,2,0,0,3,1,0,2,1,0,1
+142,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,20,20,2,2,2,2,2,0,2,0,0,2,1,1,2,2
+143,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,27,27,2,2,2,2,2,0,0,2,4,2,2,2,3,2
+144,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,27,27,2,1,2,2,2,0,2,3,4,2,0,2,3,2
+145,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,27,27,2,3,0,2,1,3,3,4,3,2,0,2,0,2
+146,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,11,11,1,0,1,1,2,0,0,0,0,2,0,0,3,1
+147,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,25,25,2,1,2,2,2,0,0,4,3,2,2,2,1,2
+148,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,16,16,1,0,1,0,1,0,0,3,3,1,2,1,2,1
+149,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,37,37,4,4,2,2,2,1,3,4,4,2,2,2,3,2
+150,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,3,3,0,0,0,0,0,0,0,0,2,0,0,1,0,0
+151,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,36,36,4,3,2,2,2,3,1,4,4,2,2,2,3,2
+152,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,34,34,3,3,2,2,2,1,2,4,4,2,2,2,3,2
+153,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,24,24,2,3,2,1,1,1,2,4,0,2,1,0,3,2
+154,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,18,18,1,0,2,2,0,0,0,1,4,1,0,2,3,2
+155,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,4,4,0,0,0,0,0,0,0,0,1,1,1,0,0,1
+156,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,30,30,3,1,2,2,1,3,3,3,2,2,2,2,2,2
+157,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,32,32,3,4,2,2,1,2,3,2,4,2,2,1,2,2
+158,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,20,20,2,3,0,1,2,2,3,0,0,1,0,1,3,2
+159,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,36,36,4,1,2,2,2,4,2,4,4,2,2,2,3,2
+160,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,9,9,0,0,2,1,0,0,0,1,1,0,1,2,0,1
+161,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,26,26,2,3,0,1,2,1,1,2,4,2,2,2,2,2
+162,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,29,29,2,1,2,2,2,3,1,3,3,2,1,2,3,2
+163,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,3,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+164,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,26,26,2,2,2,2,2,3,3,1,1,1,2,2,2,1
+165,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,38,38,4,4,2,2,2,2,3,4,4,2,2,2,3,2
+166,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,11,11,1,0,1,2,1,0,0,2,1,0,1,1,0,1
+167,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,3,3,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+168,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,20,20,2,2,0,2,2,0,2,3,2,1,1,1,0,2
+170,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,34,34,4,2,2,2,2,1,2,4,4,2,2,2,3,2
+171,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,30,30,3,2,2,2,2,3,3,4,2,2,2,0,3,0
+172,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,25,25,2,2,2,2,2,2,3,1,2,2,1,2,0,2
+173,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,19,19,1,0,1,1,0,0,0,3,3,1,2,2,3,2
+174,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,26,26,2,3,2,2,2,2,3,1,3,2,1,0,1,2
+175,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,27,27,2,3,2,2,2,2,3,2,2,0,0,2,3,2
+176,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,31,31,3,1,2,2,2,3,3,3,4,2,2,2,1,1
+177,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,6,6,0,0,0,1,0,0,0,0,1,2,0,0,0,2
+178,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,5,5,0,0,0,1,0,0,0,0,0,0,1,1,0,2
+179,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,4,4,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+180,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,26,26,2,1,2,2,2,1,2,2,3,2,2,0,3,2
+181,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,12,12,1,0,2,0,2,0,0,1,1,0,2,1,0,2
+182,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,12,12,1,0,1,0,2,0,0,1,1,2,1,0,3,0
+183,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,38,38,4,4,2,2,2,3,3,3,4,2,2,2,3,2
+184,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,4,4,0,0,0,0,0,0,0,0,0,1,1,0,2,0
+185,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,12,12,1,0,2,0,2,0,0,0,1,1,0,0,3,2
+186,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,32,32,4,2,2,2,2,0,1,4,4,2,2,2,3,2
+187,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,6,6,0,0,2,1,0,0,0,1,0,0,1,1,0,0
+188,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,32,32,3,1,2,2,2,2,2,4,4,2,1,2,3,2
+189,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,9,9,0,0,0,2,1,0,0,0,1,1,1,1,0,2
+190,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,16,16,1,0,2,2,2,0,0,1,2,1,2,1,0,2
+191,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+192,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,37,37,3,4,2,1,2,3,3,4,4,2,2,2,3,2
+193,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,39,39,4,4,2,2,2,2,4,4,4,2,2,2,3,2
+194,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,12,12,1,0,2,0,2,0,0,1,2,0,0,1,2,1
+195,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,4,4,0,0,0,0,1,0,0,0,0,1,1,1,0,0
+196,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+197,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+198,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+199,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,8,8,0,0,0,1,1,0,0,3,0,1,0,0,1,1
+200,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,13,13,1,0,1,2,1,0,0,0,2,0,2,1,3,0
+201,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,7,7,0,0,0,1,1,0,0,1,0,1,0,2,1,0
+202,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,31,31,3,3,2,1,2,2,0,3,4,2,2,2,3,2
+203,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,4,4,0,0,0,1,0,0,0,0,1,0,0,1,1,0
+204,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,3,3,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+205,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,38,38,4,4,2,2,2,3,2,4,4,2,2,2,3,2
+206,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,31,31,3,1,2,2,2,3,2,4,2,2,2,2,3,1
+207,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,40,40,4,4,2,2,2,3,4,4,4,2,2,2,3,2
+208,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,29,29,2,2,2,2,2,3,1,2,3,2,2,2,2,2
+209,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,3,3,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+210,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,25,25,2,3,2,2,1,3,3,1,4,1,1,0,1,1
+211,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,34,34,3,1,2,2,2,3,3,4,4,2,2,2,3,1
+212,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,5,5,0,0,1,0,2,0,0,0,0,0,0,2,0,0
+213,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,29,29,2,3,2,2,2,2,2,3,2,0,2,2,3,2
+214,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,37,37,4,4,2,2,2,2,2,4,4,2,2,2,3,2
+215,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+216,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,3,3,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+217,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,18,18,1,0,2,2,2,0,0,1,3,1,2,2,0,2
+218,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,25,25,2,2,2,2,2,2,2,1,1,2,2,1,2,2
+219,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,11,1,0,0,1,2,0,0,1,1,1,1,1,0,2
+220,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,9,9,0,0,0,1,0,0,0,1,1,2,0,2,2,0
+221,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,31,31,3,3,2,0,1,3,3,4,3,1,2,2,3,1
+222,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,36,36,3,4,2,2,2,3,1,4,4,2,2,2,3,2
+223,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,9,9,0,0,0,1,2,0,0,2,1,0,0,2,1,0
+224,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,20,20,2,2,1,0,2,1,2,3,1,0,2,1,1,2
+225,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,5,5,0,0,0,1,0,0,0,0,0,1,0,0,1,2
+227,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,14,14,1,0,1,2,1,0,0,1,2,2,1,2,0,1
+228,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,17,17,1,0,1,0,2,0,0,3,0,1,2,2,3,2
+229,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,23,23,2,1,1,2,2,0,2,4,2,2,2,0,1,2
+230,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,21,21,2,2,2,2,2,2,2,1,1,1,0,0,2,2
+231,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,40,40,4,4,2,2,2,3,4,4,4,2,2,2,3,2
+232,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+233,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,13,13,1,0,2,0,1,0,0,1,1,0,2,2,1,2
+234,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,15,15,2,0,2,1,1,0,0,1,1,2,0,1,3,1
+235,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,12,12,1,0,1,0,2,0,0,2,0,2,1,2,1,0
+236,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,19,19,1,0,2,0,2,0,0,3,4,1,2,1,2,1
+237,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,26,26,2,2,2,2,2,3,2,1,2,2,1,0,3,2
+238,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,13,13,1,0,2,2,0,0,0,0,1,2,0,1,2,2
+239,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,33,33,3,3,2,2,2,3,3,2,3,2,2,2,3,1
+240,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,26,26,2,1,1,2,2,3,3,1,2,2,2,2,1,2
+241,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,14,14,1,0,1,1,1,0,0,3,2,1,1,2,0,1
+242,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,14,14,1,0,1,1,0,0,0,4,1,2,1,2,1,0
+243,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,34,34,3,4,2,2,1,1,2,4,4,2,2,2,3,2
+244,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,20,20,2,3,1,2,0,2,3,0,1,2,0,1,1,2
+245,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,5,5,0,0,1,0,0,0,0,0,0,1,0,0,2,1
+246,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,4,4,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+247,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,5,5,0,0,0,1,1,0,0,1,0,0,1,0,1,0
+248,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,10,10,1,0,2,2,1,0,0,0,1,1,2,0,0,0
+249,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,39,39,4,4,2,2,2,4,2,4,4,2,2,2,3,2
+250,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,3,3,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+251,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,33,33,3,1,2,2,1,2,3,4,4,2,2,2,3,2
+252,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,17,17,1,0,1,2,1,0,0,2,2,1,2,2,1,2
+253,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,39,39,4,4,2,2,2,2,4,4,4,2,2,2,3,2
+254,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,26,26,2,2,1,1,2,2,1,4,3,2,1,2,2,1
+256,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,10,10,1,0,1,0,2,0,0,1,1,2,0,2,0,0
+257,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,37,37,4,4,2,2,2,4,0,4,4,2,2,2,3,2
+258,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,26,26,2,2,0,2,2,1,1,2,4,2,2,2,2,2
+259,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,31,31,3,4,1,2,2,3,1,3,4,0,2,1,3,2
+260,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,11,11,1,0,1,2,0,0,0,0,2,1,0,2,0,2
+261,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,27,27,2,2,1,2,2,2,2,3,2,2,2,2,1,2
+262,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,19,19,1,0,2,1,2,0,0,1,1,2,2,2,3,2
+263,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,10,10,1,0,0,1,0,0,0,2,4,0,0,0,1,1
+264,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,37,37,4,3,2,2,2,2,3,4,4,2,2,2,3,2
+265,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,16,16,1,0,1,2,1,0,0,0,2,0,2,2,3,2
+266,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,22,22,2,3,0,2,2,0,2,1,2,2,1,1,2,2
+267,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,22,22,2,2,2,2,0,1,0,3,1,2,0,2,3,2
+268,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,19,19,1,0,2,2,2,0,0,0,3,1,2,2,2,2
+269,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,17,17,1,0,2,0,2,0,0,1,3,2,2,1,1,2
+270,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,32,32,3,4,2,2,2,2,3,3,3,1,2,1,2,2
+271,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,8,8,0,0,0,2,0,0,0,2,1,0,2,0,1,0
+272,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,20,20,2,1,2,0,0,3,3,0,2,1,0,2,2,2
+273,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,26,26,2,2,1,2,1,2,0,3,2,2,2,2,3,2
+274,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,14,14,1,0,1,2,1,0,0,2,0,1,2,0,2,2
+275,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,12,12,1,0,1,2,0,0,0,2,0,0,1,2,2,1
+276,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,34,34,3,3,2,2,2,3,0,4,4,2,2,2,3,2
+277,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,19,19,1,0,2,2,2,0,0,4,0,2,0,2,3,1
+278,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,39,39,4,4,2,2,2,2,4,4,4,2,2,2,3,2
+279,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,26,26,2,2,1,2,2,2,0,3,2,2,2,1,3,2
+280,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,4,4,0,0,1,0,0,0,0,0,0,0,0,0,2,1
+281,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,30,30,3,2,2,2,2,2,1,3,4,2,1,2,3,1
+282,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,19,19,1,0,2,2,2,0,0,2,1,1,2,2,2,2
+283,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,18,18,1,0,2,2,2,0,0,2,3,0,2,2,0,2
+284,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,10,10,1,0,0,1,0,0,0,0,2,0,2,2,2,0
+285,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,30,30,3,4,2,2,2,2,3,0,4,2,0,2,2,2
+286,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,24,24,2,1,2,2,2,0,2,1,2,2,2,2,3,1
+287,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,19,19,1,0,2,1,2,0,0,3,2,1,1,2,2,2
+288,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,7,7,0,0,1,0,1,0,0,3,0,1,0,0,1,0
+289,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,13,13,1,0,2,0,2,0,0,3,0,2,0,2,1,0
+290,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,11,11,1,0,1,1,1,0,0,1,1,1,0,2,2,0
+291,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,16,16,1,0,0,2,0,0,0,3,3,2,2,1,0,2
+292,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,26,26,2,1,2,1,2,1,2,4,3,1,2,2,1,2
+293,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,38,38,4,4,2,2,2,1,4,4,4,2,2,2,3,2
+294,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,40,40,4,4,2,2,2,4,3,4,4,2,2,2,3,2
+295,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+296,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,22,22,2,2,2,1,0,0,2,3,4,2,0,1,1,2
+297,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,24,24,2,1,2,2,2,3,3,4,1,1,0,1,0,2
+298,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+299,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,18,18,1,0,1,0,2,0,0,4,3,0,2,1,3,1
+300,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,19,19,1,0,2,0,2,0,0,2,4,2,2,2,1,1
+301,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,32,32,4,3,2,2,2,2,0,3,4,2,1,2,3,2
+302,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,6,6,0,0,0,0,0,0,0,3,1,1,0,1,0,0
+303,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,3,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0
+304,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,25,25,2,3,1,2,0,2,1,3,2,2,1,2,3,1
+305,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,6,6,0,0,1,1,1,0,0,0,1,0,0,0,1,1
+306,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,20,20,2,2,1,0,1,3,3,2,0,2,1,1,0,2
+307,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,14,14,1,0,1,2,1,0,0,3,2,1,2,1,0,0
+308,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+309,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,10,10,1,0,0,2,2,0,0,0,1,1,2,1,0,0
+310,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,30,30,3,3,2,2,2,0,0,4,3,2,2,2,3,2
+311,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,9,9,0,0,2,0,0,0,0,2,1,0,2,0,1,1
+312,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,13,13,1,0,0,1,1,0,0,2,0,1,1,2,2,2
+313,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,32,32,3,2,2,1,0,3,3,4,3,2,2,2,3,2
+314,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,37,37,4,4,2,2,2,2,2,4,4,2,2,2,3,2
+315,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,12,12,1,0,1,2,1,0,0,1,0,1,0,1,3,1
+316,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+317,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,34,34,3,2,2,2,2,2,2,4,4,2,2,2,3,2
+318,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,37,37,3,4,2,2,2,4,3,4,2,2,2,2,3,2
+319,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,21,21,2,1,2,2,2,1,2,2,2,2,2,0,0,1
+320,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,25,25,2,2,1,1,2,2,2,2,2,2,2,2,2,1
+321,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,3,3,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+322,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,25,25,3,1,2,2,2,2,0,3,1,1,1,2,3,2
+324,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,4,4,0,0,1,2,0,0,0,1,0,0,0,0,0,0
+325,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,2,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+326,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,23,23,3,2,1,2,1,1,2,0,3,1,2,2,3,0
+327,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,16,16,1,0,1,2,2,0,0,1,2,2,1,1,2,1
+328,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,8,8,0,0,0,1,1,0,0,1,2,0,1,0,2,0
+329,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,27,27,3,3,2,2,2,1,0,1,3,2,2,2,3,1
+330,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,39,39,4,4,2,2,2,2,4,4,4,2,2,2,3,2
+332,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,20,20,2,2,2,1,1,3,2,0,1,1,2,1,2,0
+333,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,32,32,3,3,2,2,2,3,1,4,4,2,2,2,0,2
+334,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,24,24,2,2,1,1,2,2,2,2,2,1,1,2,2,2
+335,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,20,20,2,3,2,2,0,2,0,1,0,1,1,2,2,2
+336,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,13,13,1,0,2,0,2,0,0,3,0,1,0,1,2,1
+337,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,31,31,3,4,2,2,2,1,0,2,4,2,2,2,3,2
+338,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,37,37,4,4,2,2,2,3,1,4,4,2,2,2,3,2
+339,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,31,31,3,1,2,2,2,1,1,4,4,2,2,2,3,2
+340,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+341,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,34,34,3,3,2,2,2,1,2,4,4,2,2,2,3,2
+342,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,33,33,3,3,1,2,2,0,4,3,4,2,2,2,3,2
+343,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,29,29,2,2,2,0,1,3,2,4,4,2,2,2,1,2
+344,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,6,6,0,0,1,0,1,0,0,0,0,2,1,1,0,0
+345,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,15,15,1,0,1,1,2,0,0,2,0,2,2,1,1,2
+346,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,40,40,4,3,2,2,2,4,4,4,4,2,2,2,3,2
+347,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,10,10,1,0,1,0,2,0,0,0,3,0,0,2,1,0
+348,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,29,29,2,3,1,2,0,3,0,4,4,2,2,2,2,2
+349,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,23,23,2,3,2,2,2,1,0,4,4,1,1,1,0,0
+351,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,40,40,4,4,2,2,2,3,4,4,4,2,2,2,3,2
+352,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,27,27,2,3,2,1,2,1,0,4,2,1,2,2,3,2
+353,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,31,31,3,2,2,2,2,2,2,3,4,1,2,2,3,1
+354,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,3,3,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+355,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,15,15,1,0,0,2,2,0,0,2,3,2,2,0,1,0
+356,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,35,35,4,3,2,2,2,3,0,4,4,2,2,2,3,2
+357,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,27,27,2,1,2,2,2,3,3,4,3,1,0,2,2,0
+358,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,36,36,4,3,2,2,2,2,2,4,4,2,2,2,3,2
+359,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,33,33,3,1,2,2,2,3,1,4,4,2,2,2,3,2
+360,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,2,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+361,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,28,28,2,2,2,2,2,3,0,3,4,2,2,1,1,2
+362,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,7,7,0,0,0,1,1,0,0,1,1,1,0,0,2,0
+363,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,17,17,1,0,1,1,2,0,0,2,1,2,1,2,2,2
+364,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,6,6,0,0,0,1,2,0,0,0,0,0,2,0,1,0
+365,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,9,9,0,0,0,2,0,0,0,2,2,0,0,1,0,2
+366,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,14,14,1,0,1,1,2,0,0,1,3,2,0,1,0,2
+367,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+368,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,8,8,0,0,1,1,0,0,0,0,2,0,2,0,2,0
+369,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+370,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,10,10,1,0,0,0,0,0,0,3,1,0,1,1,2,1
+371,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,20,20,2,3,1,2,2,2,0,3,0,2,2,0,0,1
+372,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,13,13,1,0,0,2,1,0,0,2,2,2,0,1,2,0
+373,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,5,5,0,0,0,1,0,0,0,1,1,0,0,1,0,1
+374,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,11,11,1,0,1,1,1,0,0,0,2,2,2,0,1,0
+375,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,6,6,0,0,2,2,0,0,0,0,0,0,1,0,1,0
+377,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,18,18,1,0,0,1,2,0,0,2,3,1,1,2,3,2
+378,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,4,4,0,0,2,0,0,0,0,0,0,1,0,0,0,1
+379,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,9,9,0,0,2,1,0,0,0,1,0,0,1,2,1,1
+380,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,39,39,3,3,2,2,2,4,4,4,4,2,2,2,3,2
+381,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,19,19,1,0,2,1,1,0,0,4,4,0,2,2,0,2
+382,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,24,24,2,2,2,2,1,0,1,3,1,2,2,2,3,1
+383,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,31,31,4,3,2,2,2,2,3,1,2,2,2,1,3,2
+384,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,28,28,2,3,2,2,2,2,3,3,4,2,0,2,1,0
+385,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,23,23,2,1,1,1,2,2,0,3,4,2,1,1,1,2
+386,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,38,38,3,4,2,2,2,3,4,4,3,2,2,2,3,2
+387,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,40,40,4,3,2,2,2,4,4,4,4,2,2,2,3,2
+388,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,12,12,1,0,1,2,0,0,0,2,1,2,0,2,0,1
+389,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,31,31,3,1,2,2,2,3,2,4,4,0,2,1,3,2
+390,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,40,40,4,4,2,2,2,4,3,4,4,2,2,2,3,2
+391,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,35,35,3,2,2,2,2,3,2,4,4,2,2,2,3,2
+392,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,18,18,1,0,2,2,2,0,0,2,2,1,2,2,0,2
+393,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,35,35,3,4,2,2,2,2,4,3,2,2,2,2,3,2
+394,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+395,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,17,17,1,0,0,2,2,0,0,2,4,1,0,2,1,2
+396,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,37,37,3,4,2,2,2,3,3,4,3,2,2,2,3,2
+397,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,21,21,2,3,0,1,2,3,3,4,1,0,1,0,1,0
+398,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,31,31,3,1,1,2,2,4,3,3,2,2,2,1,3,2
+399,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,36,36,4,3,2,2,2,2,2,4,4,2,2,2,3,2
+400,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,31,31,3,4,2,1,2,3,0,2,4,2,2,2,3,1
+401,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,28,28,2,3,2,2,2,2,3,0,2,1,2,2,3,2
+402,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,25,25,2,3,1,2,2,3,2,1,4,0,1,2,0,2
+403,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,24,24,2,3,2,2,0,0,0,2,4,2,2,2,3,0
+404,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,11,11,1,0,1,2,0,0,0,0,1,2,2,1,1,0
+405,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,38,38,3,3,2,2,2,3,4,4,4,2,2,2,3,2
+406,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,40,40,4,4,2,2,2,4,3,4,4,2,2,2,3,2
+407,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,33,33,3,3,2,2,2,3,2,2,3,2,2,2,3,2
+408,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,7,7,0,0,0,1,0,0,0,0,0,1,2,0,3,0
+409,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,19,19,1,0,1,2,0,0,1,3,1,1,2,2,3,2
+410,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,2,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+411,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,36,36,4,1,2,2,2,3,3,4,4,2,2,2,3,2
+412,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,3,3,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+413,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,16,16,1,0,2,2,1,0,0,2,2,0,1,2,1,2
+414,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,39,39,4,4,2,2,2,4,2,4,4,2,2,2,3,2
+415,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,37,37,3,3,2,2,2,2,4,4,4,2,2,2,3,2
+416,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,21,21,2,1,2,0,2,3,3,0,3,1,2,0,0,2
+417,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,21,21,2,1,0,1,2,2,1,1,4,0,1,2,2,2
+418,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,20,20,2,2,1,0,2,0,2,3,4,1,1,1,1,0
+419,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,39,39,4,4,2,2,2,3,3,4,4,2,2,2,3,2
+420,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,17,17,1,0,2,2,1,0,0,2,2,1,0,2,3,1
+421,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,8,8,0,0,1,0,1,0,0,0,1,1,1,1,2,0
+422,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,23,23,2,1,1,1,2,2,2,3,1,0,2,1,3,2
+423,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,36,36,3,3,2,2,2,3,2,4,4,2,2,2,3,2
+424,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,17,17,1,0,2,0,2,0,0,3,2,0,2,2,3,0
+425,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,13,13,1,0,1,1,1,0,0,1,3,1,2,1,0,1
+426,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,37,37,4,3,2,2,2,2,3,4,4,2,2,2,3,2
+427,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,33,33,4,4,2,2,2,1,0,4,3,2,2,2,3,2
+428,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,30,30,3,3,2,2,2,2,1,3,1,2,2,2,3,2
+429,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,6,6,0,0,2,1,0,0,0,0,0,0,1,0,1,1
+430,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,24,24,2,3,2,1,2,3,3,1,1,2,2,0,1,1
+431,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,20,20,2,1,1,1,2,0,2,2,3,2,0,2,0,2
+432,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,37,37,3,3,2,2,2,4,2,4,4,2,2,2,3,2
+433,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,37,37,3,4,2,2,2,2,4,4,3,2,2,2,3,2
+434,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+435,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,32,32,3,3,2,2,2,0,2,4,3,2,2,2,3,2
+436,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,35,35,4,3,2,2,2,3,2,4,2,2,2,2,3,2
+438,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,21,21,2,2,2,2,0,2,3,3,0,2,2,1,0,0
+439,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,10,10,1,0,1,0,2,0,0,0,0,1,0,2,2,1
+441,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,28,28,2,3,1,2,1,4,3,1,1,1,2,2,3,2
+442,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,24,24,2,1,0,2,2,0,0,3,4,2,2,2,3,1
+443,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,6,6,0,0,0,0,0,0,0,2,0,2,0,2,0,0
+444,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,13,13,1,0,2,0,0,0,0,3,3,0,1,2,0,1
+445,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,6,6,0,0,1,1,0,0,0,2,0,0,1,1,0,0
+446,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,12,12,1,0,2,2,1,0,0,1,1,0,0,2,0,2
+447,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,36,36,3,3,2,2,2,2,3,4,4,2,2,2,3,2
+448,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,13,13,1,0,0,1,2,0,0,1,1,0,2,2,3,0
+449,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,4,4,0,0,2,0,0,0,0,0,0,1,1,0,0,0
+450,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,29,29,2,3,1,0,1,3,1,4,3,2,2,2,3,2
+451,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,12,12,1,0,1,1,0,0,0,2,1,1,1,2,0,2
+452,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,5,5,0,0,0,0,1,0,0,0,0,0,2,2,0,0
+453,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,18,18,1,0,2,1,2,0,0,2,1,2,2,1,2,2
+454,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,6,6,0,0,1,1,1,0,0,1,1,0,1,0,0,0
+456,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+457,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,22,22,2,3,2,2,0,0,2,1,3,1,1,1,2,2
+458,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,29,29,2,3,2,2,1,0,2,4,3,2,2,2,2,2
+459,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,27,27,2,2,1,2,2,2,1,4,3,1,2,1,3,1
+460,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,9,9,0,0,1,1,0,0,0,2,1,1,0,2,0,1
+461,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,5,5,0,0,0,0,1,0,0,1,0,0,0,1,0,2
+462,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,29,29,2,2,2,2,2,2,1,2,4,1,2,2,3,2
+463,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,8,8,0,0,0,1,1,0,0,0,3,0,0,0,1,2
+464,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,14,14,1,0,1,2,2,0,0,2,0,2,2,2,0,0
+465,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,40,40,4,4,2,2,2,4,3,4,4,2,2,2,3,2
+466,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+467,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,22,22,2,2,2,1,2,1,0,1,2,2,2,2,1,2
+468,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+469,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,8,8,0,0,2,1,0,0,0,1,1,0,2,0,0,1
+470,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,36,36,3,3,2,2,2,3,4,3,4,2,2,1,3,2
+471,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,31,31,3,2,2,2,1,2,2,4,3,2,2,2,2,2
+472,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,34,34,4,2,2,2,2,1,2,4,4,2,2,2,3,2
+473,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,31,31,3,1,2,2,2,3,3,3,2,2,2,2,2,2
+474,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,26,26,2,2,2,2,2,3,1,1,2,1,2,2,2,2
+475,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,28,28,2,3,1,1,1,3,2,4,3,1,2,2,2,1
+476,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,3,3,0,0,0,0,0,0,0,0,0,1,0,2,0,0
+477,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,9,9,0,0,0,0,2,0,0,1,0,1,0,1,3,1
+478,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,33,33,3,3,2,2,2,3,3,3,1,2,2,2,3,2
+479,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,27,27,2,2,2,2,2,0,1,4,1,2,2,2,3,2
+480,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,20,20,2,2,2,2,0,2,1,2,1,2,2,1,0,1
+481,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,17,17,1,0,0,2,1,0,0,2,1,1,2,2,3,2
+482,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,19,19,1,0,1,0,2,0,0,3,4,2,1,2,1,2
+483,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,26,26,2,3,1,1,2,3,3,3,2,1,0,1,2,2
+485,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,19,19,1,0,2,1,2,0,0,0,4,1,2,2,2,2
+486,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,26,26,2,2,1,2,2,2,3,3,2,1,1,0,3,2
+487,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,32,32,3,1,1,2,2,2,3,4,3,2,2,2,3,2
+488,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,9,9,0,0,1,0,1,0,0,0,0,1,0,2,3,1
+489,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,41,41,4,4,2,2,2,4,4,4,4,2,2,2,3,2
+490,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,20,20,2,1,2,0,2,2,3,0,2,1,1,1,2,1
+491,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,4,4,0,0,0,0,0,0,0,1,1,2,0,0,0,0
+492,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,22,22,2,3,2,1,1,2,1,2,0,2,2,2,0,2
+493,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,25,25,2,3,2,1,2,2,0,2,3,2,2,1,2,1
+494,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,22,22,2,3,1,1,1,2,2,2,1,0,2,1,2,2
+495,sigh_d,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+496,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,5,5,0,0,0,1,0,0,0,2,1,0,0,1,0,0
+497,sigh_d,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,3,3,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+498,sigh_d,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,36,36,3,2,2,2,2,4,3,4,4,2,2,2,3,1
+499,sigh_d,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,8,8,0,0,1,2,1,0,0,1,1,0,1,0,1,0

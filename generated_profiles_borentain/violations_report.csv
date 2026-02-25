@@ -1,0 +1,868 @@
+profile_id,target_score,actual_total_score,rule_type,rule,detail
+0,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+0,25,25,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+1,17,17,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+1,17,17,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+2,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+3,11,11,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+4,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=5 (diff=5)
+4,28,28,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=5)
+5,38,38,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
+5,38,38,clinical,tension_requires_sleep_disturbance,INNER_TENSION=5 >= 4 but REDUCED_SLEEP=0
+6,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+6,17,17,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+6,17,17,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+8,25,25,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+8,25,25,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+9,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+9,19,19,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+11,43,43,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+12,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)
+12,19,19,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+12,19,19,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+12,19,19,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+13,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+13,33,33,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+13,33,33,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+13,33,33,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+13,33,33,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+13,33,33,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+14,43,43,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+15,43,43,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+15,43,43,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+15,43,43,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+15,43,43,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+17,10,10,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+17,10,10,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+18,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=4 (diff=4)
+18,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+19,9,9,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+19,9,9,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+20,22,22,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+21,40,40,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+21,40,40,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+22,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+22,27,27,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+22,27,27,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
+22,27,27,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+22,27,27,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+23,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+24,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+25,18,18,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=1)
+25,18,18,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+25,18,18,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+26,17,17,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+26,17,17,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=5 but REPORTED_SADNESS=0
+26,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+27,42,42,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+28,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+28,22,22,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+29,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+29,27,27,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+29,27,27,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+30,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+30,37,37,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+31,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+31,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+32,25,25,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+36,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+36,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+37,30,30,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+37,30,30,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+38,5,5,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+39,50,50,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+39,50,50,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+39,50,50,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=5 > max_allowed=4 (REPORTED_SADNESS=2)
+40,22,22,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+40,22,22,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=1)
+40,22,22,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+40,22,22,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+41,9,9,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+42,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=5 (diff=5)
+42,23,23,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=5)
+43,31,31,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+43,31,31,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+43,31,31,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+44,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+44,26,26,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=3)
+45,12,12,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)
+46,18,18,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+47,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+48,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+49,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+49,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+49,27,27,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+49,27,27,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+50,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+50,26,26,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+50,26,26,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+50,26,26,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+50,26,26,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+51,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+51,39,39,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+51,39,39,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+52,38,38,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+53,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+53,23,23,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=3)
+53,23,23,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+53,23,23,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+54,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+55,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
+56,11,11,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+56,11,11,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+58,25,25,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+58,25,25,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+58,25,25,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+58,25,25,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+59,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+60,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+61,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+61,29,29,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=5 but REPORTED_SADNESS=0
+61,29,29,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+61,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+62,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+62,28,28,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+62,28,28,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+63,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+63,22,22,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+64,8,8,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+64,8,8,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
+64,8,8,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+65,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+65,21,21,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=2)
+66,27,27,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+67,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=4 (diff=4)
+69,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+69,29,29,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+69,29,29,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+69,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+72,14,14,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+72,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+73,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
+73,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=5)
+74,5,5,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+75,33,33,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+76,44,44,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+76,44,44,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+76,44,44,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+76,44,44,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+76,44,44,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+76,44,44,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=0 < 2
+79,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
+80,34,34,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+81,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+82,55,55,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+83,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+83,15,15,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+84,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+84,26,26,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+86,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+88,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+88,29,29,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+89,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+89,27,27,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+89,27,27,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+89,27,27,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+89,27,27,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+90,25,25,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+90,25,25,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+91,40,40,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+91,40,40,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+92,30,30,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+95,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+95,17,17,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+97,15,15,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+97,15,15,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+97,15,15,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+97,15,15,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+98,23,23,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+98,23,23,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+98,23,23,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+98,23,23,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+99,50,50,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+99,50,50,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+100,36,36,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+100,36,36,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+100,36,36,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+100,36,36,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+102,29,29,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=1)
+102,29,29,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+103,17,17,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+103,17,17,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+105,13,13,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+106,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+107,35,35,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+109,13,13,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+110,35,35,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+110,35,35,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+110,35,35,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+110,35,35,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+111,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+111,28,28,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+111,28,28,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+111,28,28,clinical,tension_requires_sleep_disturbance,INNER_TENSION=5 >= 4 but REDUCED_SLEEP=0
+112,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+113,11,11,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=0 (diff=5)
+113,11,11,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+114,45,45,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+115,35,35,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+115,35,35,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+115,35,35,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=1 < 2
+116,20,20,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+117,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+117,22,22,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+118,41,41,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+118,41,41,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=3)
+118,41,41,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+120,25,25,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+120,25,25,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+120,25,25,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+121,30,30,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+121,30,30,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+122,45,45,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+122,45,45,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+124,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+124,24,24,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+124,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+125,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+125,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+126,34,34,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+127,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+127,39,39,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+129,48,48,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
+130,32,32,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+131,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+131,26,26,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+132,17,17,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+132,17,17,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+132,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+133,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+133,36,36,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=4 but REPORTED_SADNESS=0
+133,36,36,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=3 but REPORTED_SADNESS=0
+133,36,36,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+133,36,36,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+133,36,36,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+136,9,9,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+137,32,32,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+137,32,32,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+137,32,32,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+137,32,32,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+138,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+138,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+140,5,5,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+141,23,23,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=1 < 2
+143,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+143,17,17,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+144,36,36,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+145,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+146,23,23,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+146,23,23,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+146,23,23,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+147,31,31,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+147,31,31,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+147,31,31,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+148,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+149,18,18,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+149,18,18,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=1)
+149,18,18,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+149,18,18,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+149,18,18,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+150,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+151,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+151,36,36,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+152,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+152,19,19,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+152,19,19,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+152,19,19,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+153,13,13,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+153,13,13,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+154,9,9,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=3 but REPORTED_SADNESS=0
+154,9,9,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+155,23,23,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+156,18,18,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+156,18,18,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=5 but REPORTED_SADNESS=0
+156,18,18,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+156,18,18,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+157,44,44,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+158,40,40,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+159,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=5 (diff=4)
+160,9,9,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+161,17,17,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+161,17,17,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+163,38,38,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+163,38,38,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+164,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+164,31,31,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+164,31,31,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
+164,31,31,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+164,31,31,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+165,9,9,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+166,6,6,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+167,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+167,30,30,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+168,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
+168,19,19,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+169,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+170,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+170,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=2)
+170,30,30,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=5 > max_allowed=4 (REPORTED_SADNESS=2)
+171,18,18,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=5 (diff=5)
+172,9,9,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+172,9,9,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+173,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+173,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+174,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+174,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+176,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=5 (diff=4)
+177,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+178,21,21,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=2)
+178,21,21,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+179,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)
+179,26,26,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=1)
+179,26,26,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+180,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+180,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+181,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+181,26,26,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+181,26,26,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+181,26,26,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+181,26,26,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=0 < 2
+182,8,8,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+182,8,8,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+183,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+185,26,26,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=4 but REPORTED_SADNESS=0
+185,26,26,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+185,26,26,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+185,26,26,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+186,31,31,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+186,31,31,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=3 but REPORTED_SADNESS=0
+186,31,31,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+186,31,31,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+187,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
+187,36,36,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=5)
+188,11,11,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+188,11,11,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+189,16,16,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+189,16,16,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+189,16,16,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+190,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+190,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+190,30,30,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+191,20,20,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+192,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=4 (diff=4)
+192,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+193,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+194,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+196,50,50,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+197,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+197,37,37,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+197,37,37,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+197,37,37,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+197,37,37,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+198,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+198,33,33,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+198,33,33,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+199,12,12,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+199,12,12,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+200,45,45,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+200,45,45,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+200,45,45,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+200,45,45,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+201,43,43,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=5)
+202,32,32,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+202,32,32,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+203,38,38,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+203,38,38,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+204,5,5,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+204,5,5,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+205,13,13,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+205,13,13,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+206,8,8,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+207,14,14,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+208,20,20,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+210,16,16,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+210,16,16,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=1 < 2
+211,34,34,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+211,34,34,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+211,34,34,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
+211,34,34,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+213,42,42,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+213,42,42,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+214,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+214,31,31,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=5 but REPORTED_SADNESS=0
+214,31,31,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+215,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=1 (diff=4)
+215,37,37,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+215,37,37,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+217,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+217,32,32,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+218,23,23,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+219,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+219,37,37,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+219,37,37,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+219,37,37,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+219,37,37,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+220,46,46,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+222,28,28,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+224,29,29,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+225,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+226,8,8,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+227,28,28,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+228,28,28,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+229,42,42,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+229,42,42,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=3)
+229,42,42,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+230,15,15,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+230,15,15,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+231,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+232,22,22,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+233,32,32,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+236,7,7,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+237,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+237,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=2)
+238,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)
+238,26,26,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+238,26,26,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+239,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
+240,29,29,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+240,29,29,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+240,29,29,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+240,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+241,26,26,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+241,26,26,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+241,26,26,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+241,26,26,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+243,16,16,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+245,26,26,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=1 < 2
+246,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+246,30,30,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+247,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+248,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+248,33,33,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=4 but REPORTED_SADNESS=0
+248,33,33,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+248,33,33,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+248,33,33,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+248,33,33,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+250,14,14,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+250,14,14,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+251,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)
+251,21,21,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+253,20,20,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=3 (diff=2)
+253,20,20,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+253,20,20,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+255,24,24,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+255,24,24,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+256,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+256,22,22,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+259,25,25,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=2)
+260,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+260,23,23,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+261,34,34,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+262,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+262,29,29,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+262,29,29,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+262,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=1 < 2
+264,26,26,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+265,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
+265,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+266,30,30,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+267,33,33,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+269,9,9,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+269,9,9,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+271,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+271,27,27,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+272,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+272,25,25,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+273,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+273,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+273,30,30,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+274,43,43,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+275,30,30,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+275,30,30,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+275,30,30,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+275,30,30,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+276,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+277,38,38,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+278,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+278,17,17,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+279,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+279,30,30,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+279,30,30,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+279,30,30,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+280,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+280,22,22,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+280,22,22,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+281,16,16,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=5 (diff=5)
+281,16,16,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=5)
+281,16,16,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+282,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+283,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+284,33,33,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+285,16,16,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+285,16,16,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+285,16,16,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+286,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+288,31,31,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+288,31,31,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+289,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+289,32,32,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+289,32,32,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+289,32,32,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+289,32,32,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+289,32,32,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+290,19,19,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+292,18,18,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=4 (diff=4)
+293,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+293,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+294,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+295,14,14,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+295,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+298,30,30,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+299,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+299,39,39,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+300,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+300,15,15,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+300,15,15,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+300,15,15,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+301,41,41,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+301,41,41,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=2)
+301,41,41,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+302,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+303,39,39,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+304,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+305,26,26,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+306,33,33,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+307,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+308,20,20,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+309,36,36,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+310,31,31,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+310,31,31,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+310,31,31,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+310,31,31,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+311,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+311,24,24,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+312,13,13,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+313,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+313,23,23,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+313,23,23,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=5 but REPORTED_SADNESS=0
+313,23,23,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+313,23,23,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+314,5,5,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+314,5,5,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
+314,5,5,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+315,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+316,34,34,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+316,34,34,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+316,34,34,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+317,30,30,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+318,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+318,29,29,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+318,29,29,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=3 but REPORTED_SADNESS=0
+318,29,29,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+318,29,29,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+318,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+319,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
+319,26,26,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=5)
+321,22,22,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=4 but REPORTED_SADNESS=0
+321,22,22,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+321,22,22,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+321,22,22,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+322,24,24,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+322,24,24,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+322,24,24,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+323,28,28,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+324,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+324,21,21,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
+324,21,21,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+325,29,29,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+325,29,29,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+325,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+326,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+326,32,32,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+326,32,32,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+326,32,32,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+326,32,32,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+327,38,38,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+328,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+328,30,30,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+329,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=5 (diff=5)
+330,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+330,25,25,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+332,16,16,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+334,25,25,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+334,25,25,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+336,26,26,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+336,26,26,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+337,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+337,39,39,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+337,39,39,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+339,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=1 (diff=3)
+339,23,23,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+339,23,23,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+340,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+340,24,24,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+341,5,5,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=0 < 2
+342,15,15,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+343,13,13,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=5)
+344,19,19,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+346,41,41,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+346,41,41,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=1 (REPORTED_SADNESS=1)
+346,41,41,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+346,41,41,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+346,41,41,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+348,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+350,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+350,24,24,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+351,46,46,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+353,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+353,26,26,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+354,12,12,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+354,12,12,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+355,40,40,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=3 (diff=2)
+355,40,40,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=3)
+356,13,13,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=1)
+356,13,13,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=5 > 2
+357,38,38,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+357,38,38,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+358,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+358,30,30,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+358,30,30,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+359,23,23,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+360,36,36,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+360,36,36,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+361,16,16,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+361,16,16,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+361,16,16,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+361,16,16,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+362,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+363,5,5,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+364,42,42,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
+364,42,42,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+366,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+367,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+367,39,39,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+367,39,39,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+367,39,39,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+367,39,39,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+369,20,20,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+369,20,20,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+370,13,13,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+371,8,8,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+372,17,17,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+372,17,17,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=3 but REPORTED_SADNESS=0
+372,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+373,34,34,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+373,34,34,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+373,34,34,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+374,9,9,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+374,9,9,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+376,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+377,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=6 (diff=6)
+378,6,6,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+378,6,6,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+379,5,5,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+379,5,5,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+382,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+382,22,22,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=2)
+383,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+383,30,30,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+385,20,20,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+386,44,44,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+387,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
+388,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+388,27,27,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+388,27,27,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+389,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+389,28,28,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+389,28,28,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+390,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+391,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+391,30,30,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+391,30,30,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+393,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+393,24,24,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+393,24,24,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+393,24,24,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+394,23,23,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+394,23,23,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+395,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+395,23,23,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+396,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+396,39,39,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+396,39,39,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+396,39,39,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+396,39,39,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+396,39,39,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+396,39,39,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+397,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+397,36,36,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+397,36,36,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+397,36,36,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+397,36,36,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+397,36,36,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=0 < 2
+398,22,22,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+398,22,22,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+398,22,22,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+398,22,22,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+399,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=3 (diff=2)
+401,25,25,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+402,26,26,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+402,26,26,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+403,20,20,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+404,7,7,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+404,7,7,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+408,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+409,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+409,28,28,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+409,28,28,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+410,11,11,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+411,20,20,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+412,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+412,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
+414,17,17,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=0 < 2
+415,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=1 (diff=5)
+416,31,31,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+416,31,31,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+416,31,31,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+417,17,17,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+417,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+418,27,27,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+419,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=3 (diff=2)
+419,37,37,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+420,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=4 (diff=4)
+420,32,32,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+422,28,28,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+422,28,28,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+423,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=4 (diff=2)
+423,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+425,23,23,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+425,23,23,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+425,23,23,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+426,19,19,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+428,35,35,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+428,35,35,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+429,40,40,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+430,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=4 but REPORTED_SADNESS=0
+430,14,14,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+430,14,14,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+431,29,29,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+431,29,29,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+431,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+432,25,25,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+432,25,25,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+432,25,25,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+432,25,25,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+432,25,25,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=5 >= 4 but REPORTED_SADNESS=0 < 2
+433,20,20,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+433,20,20,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+434,19,19,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+434,19,19,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+435,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=3 but REPORTED_SADNESS=0
+435,14,14,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+435,14,14,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+435,14,14,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+436,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
+438,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
+439,16,16,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+439,16,16,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=2)
+440,20,20,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=0 (diff=3)
+440,20,20,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+440,20,20,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+440,20,20,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=0 < 2
+441,27,27,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+441,27,27,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+441,27,27,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+441,27,27,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+442,11,11,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=0 (diff=4)
+442,11,11,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+442,11,11,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+443,36,36,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+443,36,36,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+444,34,34,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+444,34,34,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+444,34,34,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+444,34,34,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+445,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+445,14,14,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+445,14,14,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+446,27,27,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=0 (diff=5)
+446,27,27,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+446,27,27,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=0 < 2
+446,27,27,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+447,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
+448,29,29,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+449,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=2 (diff=4)
+450,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=2 (diff=2)
+451,28,28,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+451,28,28,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+452,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+453,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+453,31,31,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+454,9,9,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+455,47,47,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=3 (diff=3)
+455,47,47,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=3)
+455,47,47,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+456,25,25,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=1)
+456,25,25,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+457,32,32,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+458,40,40,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=6 (diff=4)
+459,20,20,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=5 (diff=5)
+459,20,20,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=5)
+460,38,38,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+461,18,18,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=4 (diff=4)
+461,18,18,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
+462,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+462,14,14,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+463,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+467,21,21,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=5 (diff=4)
+468,5,5,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+469,12,12,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+469,12,12,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
+470,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
+470,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=3 (REPORTED_SADNESS=6)
+471,17,17,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+471,17,17,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+473,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+473,24,24,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+473,24,24,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=5 > max_allowed=4 (REPORTED_SADNESS=2)
+474,14,14,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=5 but REPORTED_SADNESS=0
+474,14,14,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=5 > 2
+474,14,14,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+476,11,11,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+477,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=1 (diff=2)
+477,37,37,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=4 > max_allowed=1 (REPORTED_SADNESS=1)
+477,37,37,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=4 > 2
+477,37,37,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+477,37,37,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=1 < 2
+479,37,37,clinical,tension_requires_sleep_disturbance,INNER_TENSION=6 >= 4 but REDUCED_SLEEP=0
+480,42,42,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
+482,12,12,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=0 (diff=2)
+483,5,5,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=3 but REPORTED_SADNESS=0
+483,5,5,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+484,5,5,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+486,30,30,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=1 (REPORTED_SADNESS=1)
+486,30,30,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+487,6,6,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=1 but REPORTED_SADNESS=0
+487,6,6,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+488,18,18,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
+488,18,18,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+489,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=6 vs REPORTED_SADNESS=0 (diff=6)
+489,33,33,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=6 but REPORTED_SADNESS=0
+489,33,33,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+489,33,33,clinical,mood_gate_suicidal,REPORTED_SADNESS=0 <= 1 but SUICIDAL_THOUGHTS=6 > 2
+489,33,33,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
+489,33,33,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=6 >= 4 but REPORTED_SADNESS=0 < 2
+490,43,43,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=5 vs REPORTED_SADNESS=2 (diff=3)
+490,43,43,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=4 (REPORTED_SADNESS=2)
+492,11,11,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=1 but REPORTED_SADNESS=0
+493,24,24,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+495,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=6 (diff=5)
+495,33,33,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=3 (REPORTED_SADNESS=6)
+495,33,33,clinical,tension_requires_sleep_disturbance,INNER_TENSION=4 >= 4 but REDUCED_SLEEP=0
+496,15,15,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=6 > max_allowed=3 (REPORTED_SADNESS=2)
+497,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
+497,29,29,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
+498,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=3 > max_allowed=1 (REPORTED_SADNESS=1)
+498,27,27,clinical,mood_gate_suicidal,REPORTED_SADNESS=1 <= 1 but SUICIDAL_THOUGHTS=3 > 2
+499,17,17,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=6 but REPORTED_SADNESS=0
+499,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=6 > 2
