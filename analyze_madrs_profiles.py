@@ -166,7 +166,43 @@ def plot_item_histograms_overall(df):
     print(f"Saved: {path}")
 
 
-# ── 6. Total score distribution ────────────────────────────────────────────
+# ── 6. Sample-level profile line plots by severity band ─────────────────────
+def plot_sample_profiles(df, n_samples=50):
+    short_x = [SHORT_LABELS[c].replace("\n", " ") for c in ITEM_COLS]
+    fig, axes = plt.subplots(3, 1, figsize=(14, 18), sharey=True, sharex=True)
+
+    for ax, band in zip(axes, BAND_LABELS):
+        sub = df[df["severity_band"] == band]
+        sampled = sub.sample(n=min(n_samples, len(sub)), random_state=42)
+
+        for _, row in sampled.iterrows():
+            scores = [row[c] for c in ITEM_COLS]
+            ax.plot(range(10), scores, color=BAND_COLORS[band],
+                    alpha=0.25, linewidth=0.8)
+
+        # Plot the band mean as a bold line
+        if len(sub) > 0:
+            means = [sub[c].mean() for c in ITEM_COLS]
+            ax.plot(range(10), means, color="black", linewidth=2.5,
+                    label="Mean", zorder=10)
+
+        ax.set_title(f"{band}  (showing {len(sampled)} profiles)", fontsize=12)
+        ax.set_xticks(range(10))
+        ax.set_xticklabels(short_x, rotation=45, ha="right", fontsize=9)
+        ax.set_ylim(-0.3, 6.3)
+        ax.set_yticks(range(7))
+        ax.set_ylabel("Score" if ax == axes[0] else "")
+        ax.legend(fontsize=9)
+
+    fig.suptitle("Individual MADRS Profiles by Severity Band", fontsize=14, y=1.02)
+    fig.tight_layout()
+    path = os.path.join(OUTPUT_DIR, "madrs_sample_profiles_by_band.png")
+    fig.savefig(path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"Saved: {path}")
+
+
+# ── 7. Total score distribution ────────────────────────────────────────────
 def plot_total_score_distribution(df):
     fig, ax = plt.subplots(figsize=(10, 4))
     ax.hist(df["actual_total_score"], bins=30, edgecolor="white", color="#5C6BC0")
@@ -211,6 +247,7 @@ def main():
     plot_correlation_by_band(df)
     plot_histograms_by_band(df)
     plot_item_histograms_overall(df)
+    plot_sample_profiles(df)
     plot_total_score_distribution(df)
 
     print(f"\nAll plots saved to: {OUTPUT_DIR}")

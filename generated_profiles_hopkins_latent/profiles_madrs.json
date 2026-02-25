@@ -2171,7 +2171,7 @@
     "persona_life_situation": "Struggling with academic pressure and feeling isolated after moving to a new city for school.",
     "communication_style": "guarded",
     "target_score": 17,
-    "actual_total_score": 17,
+    "actual_total_score": 16,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 2,
@@ -2180,7 +2180,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 2,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -2213,7 +2213,7 @@
     "persona_life_situation": "Dealing with unemployment and the financial stress of supporting his family.",
     "communication_style": "direct_cooperative",
     "target_score": 13,
-    "actual_total_score": 13,
+    "actual_total_score": 12,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 1,
@@ -2222,7 +2222,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 0
   },
   {
@@ -4943,7 +4943,7 @@
     "persona_life_situation": "Dealing with unemployment and the financial stress of supporting his family.",
     "communication_style": "guarded",
     "target_score": 21,
-    "actual_total_score": 21,
+    "actual_total_score": 20,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 4,
@@ -4952,7 +4952,7 @@
     "CONCENTRATION_DIFFICULTIES": 3,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -5636,7 +5636,7 @@
     "persona_life_situation": "Struggling with academic pressure and feeling isolated after moving to a new city for school.",
     "communication_style": "direct_cooperative",
     "target_score": 19,
-    "actual_total_score": 19,
+    "actual_total_score": 18,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 2,
@@ -5645,7 +5645,7 @@
     "CONCENTRATION_DIFFICULTIES": 3,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 3,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -5909,7 +5909,7 @@
     "persona_life_situation": "Feeling a loss of purpose and structure since retiring. His social circle has become smaller.",
     "communication_style": "irritable",
     "target_score": 16,
-    "actual_total_score": 16,
+    "actual_total_score": 15,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 3,
@@ -5918,7 +5918,7 @@
     "CONCENTRATION_DIFFICULTIES": 0,
     "LASSITUDE": 1,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 2
   },
   {
@@ -6035,7 +6035,7 @@
     "persona_life_situation": "Struggling with academic pressure and feeling isolated after moving to a new city for school.",
     "communication_style": "guarded",
     "target_score": 10,
-    "actual_total_score": 10,
+    "actual_total_score": 8,
     "REPORTED_SADNESS": 0,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 1,
@@ -6044,7 +6044,7 @@
     "CONCENTRATION_DIFFICULTIES": 0,
     "LASSITUDE": 1,
     "INABILITY_TO_FEEL": 0,
-    "PESSIMISTIC_THOUGHTS": 4,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 2
   },
   {
@@ -6119,7 +6119,7 @@
     "persona_life_situation": "Dealing with unemployment and the financial stress of supporting his family.",
     "communication_style": "direct_cooperative",
     "target_score": 20,
-    "actual_total_score": 20,
+    "actual_total_score": 19,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 3,
@@ -6128,7 +6128,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 3,
     "INABILITY_TO_FEEL": 2,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -6959,8 +6959,8 @@
     "persona_life_situation": "Feeling a loss of purpose and structure since retiring. His social circle has become smaller.",
     "communication_style": "direct_cooperative",
     "target_score": 27,
-    "actual_total_score": 27,
-    "REPORTED_SADNESS": 1,
+    "actual_total_score": 29,
+    "REPORTED_SADNESS": 3,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 4,
     "REDUCED_SLEEP": 3,
@@ -7211,7 +7211,7 @@
     "persona_life_situation": "Dealing with unemployment and the financial stress of supporting his family.",
     "communication_style": "irritable",
     "target_score": 13,
-    "actual_total_score": 13,
+    "actual_total_score": 12,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 1,
@@ -7220,7 +7220,7 @@
     "CONCENTRATION_DIFFICULTIES": 1,
     "LASSITUDE": 3,
     "INABILITY_TO_FEEL": 2,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -7253,7 +7253,7 @@
     "persona_life_situation": "Feeling a loss of purpose and structure since retiring. His social circle has become smaller.",
     "communication_style": "guarded",
     "target_score": 17,
-    "actual_total_score": 17,
+    "actual_total_score": 16,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 2,
@@ -7262,7 +7262,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -8387,7 +8387,7 @@
     "persona_life_situation": "Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).",
     "communication_style": "irritable",
     "target_score": 22,
-    "actual_total_score": 22,
+    "actual_total_score": 20,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 3,
@@ -8396,7 +8396,7 @@
     "CONCENTRATION_DIFFICULTIES": 1,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 4,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 2
   },
   {
@@ -8471,7 +8471,7 @@
     "persona_life_situation": "Dealing with unemployment and the financial stress of supporting his family.",
     "communication_style": "direct_cooperative",
     "target_score": 20,
-    "actual_total_score": 20,
+    "actual_total_score": 19,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 1,
     "INNER_TENSION": 3,
@@ -8480,7 +8480,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 1,
     "INABILITY_TO_FEEL": 2,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 2
   },
   {
@@ -8534,7 +8534,7 @@
     "persona_life_situation": "Struggling with academic pressure and feeling isolated after moving to a new city for school.",
     "communication_style": "direct_cooperative",
     "target_score": 10,
-    "actual_total_score": 10,
+    "actual_total_score": 9,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 0,
@@ -8543,7 +8543,7 @@
     "CONCENTRATION_DIFFICULTIES": 1,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 2
   },
   {
@@ -8618,7 +8618,7 @@
     "persona_life_situation": "Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).",
     "communication_style": "guarded",
     "target_score": 11,
-    "actual_total_score": 11,
+    "actual_total_score": 10,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 0,
@@ -8627,7 +8627,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 3,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 0
   },
   {
@@ -9962,7 +9962,7 @@
     "persona_life_situation": "Dealing with unemployment and the financial stress of supporting his family.",
     "communication_style": "irritable",
     "target_score": 14,
-    "actual_total_score": 14,
+    "actual_total_score": 13,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 1,
@@ -9971,7 +9971,7 @@
     "CONCENTRATION_DIFFICULTIES": 3,
     "LASSITUDE": 2,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -10130,7 +10130,7 @@
     "persona_life_situation": "Struggling with academic pressure and feeling isolated after moving to a new city for school.",
     "communication_style": "irritable",
     "target_score": 12,
-    "actual_total_score": 12,
+    "actual_total_score": 11,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 0,
@@ -10139,7 +10139,7 @@
     "CONCENTRATION_DIFFICULTIES": 2,
     "LASSITUDE": 3,
     "INABILITY_TO_FEEL": 1,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {
@@ -10340,7 +10340,7 @@
     "persona_life_situation": "Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).",
     "communication_style": "guarded",
     "target_score": 11,
-    "actual_total_score": 11,
+    "actual_total_score": 10,
     "REPORTED_SADNESS": 1,
     "APPARENT_SADNESS": 0,
     "INNER_TENSION": 2,
@@ -10349,7 +10349,7 @@
     "CONCENTRATION_DIFFICULTIES": 0,
     "LASSITUDE": 0,
     "INABILITY_TO_FEEL": 0,
-    "PESSIMISTIC_THOUGHTS": 3,
+    "PESSIMISTIC_THOUGHTS": 2,
     "SUICIDAL_THOUGHTS": 1
   },
   {

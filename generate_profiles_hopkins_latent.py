@@ -50,6 +50,26 @@ class HierarchicalMADRSGenerator:
             "CONCENTRATION_DIFFICULTIES": 0.0, "LASSITUDE": 0.0, "INABILITY_TO_FEEL": -0.5,
             "PESSIMISTIC_THOUGHTS": -0.5, "SUICIDAL_THOUGHTS": -2.0
         }
+    
+    def _apply_madrs_rules(self, scores):
+        """Apply MADRS specific clinical rules."""
+        if "REPORTED_SADNESS" in scores:
+            # Core Mood Gate
+            if scores["REPORTED_SADNESS"] <= 1:
+                if scores["SUICIDAL_THOUGHTS"] > 2:
+                    scores["SUICIDAL_THOUGHTS"] = 1
+                if scores["PESSIMISTIC_THOUGHTS"] > 2:
+                    scores["PESSIMISTIC_THOUGHTS"] = 2
+            
+            # Anhedonia Link
+            if scores["INABILITY_TO_FEEL"] >= 4 and scores["REPORTED_SADNESS"] < 2:
+                scores["REPORTED_SADNESS"] = 3
+            
+            # Tension and Sleep Link
+            if scores["INNER_TENSION"] >= 4 and scores["REDUCED_SLEEP"] == 0:
+                scores["REDUCED_SLEEP"] = 2
+        
+        return scores
 
     def _severity_scaled_cov(self, target_score: int) -> np.ndarray:
         """Scale off-diagonal correlations by severity.
@@ -94,10 +114,8 @@ class HierarchicalMADRSGenerator:
             sampled = np.random.normal(loc=item_mean, scale=self.item_residual_sd[item])
             continuous[item] = sampled
             discrete[item] = max(0, min(6, int(round(sampled))))
-
-        # 4. Probability-weighted adjustment to hit exact target
+        # 4. Adjustment loop to hit target score (no clinical rules here)
         current_sum = sum(discrete.values())
-        adjustment_steps = 0
         for _ in range(100):
             if current_sum == target_score:
                 break
@@ -114,7 +132,10 @@ class HierarchicalMADRSGenerator:
                 best = max(cands, key=lambda k: discrete[k] - continuous[k])
                 discrete[best] -= 1
             current_sum = sum(discrete.values())
-            adjustment_steps += 1
+
+        # 5. Apply clinical rules as final pass — guarantees plausibility
+        #    Total may drift by 1-2 points but clinical validity is preserved.
+        discrete = self._apply_madrs_rules(discrete)
 
         return discrete
 

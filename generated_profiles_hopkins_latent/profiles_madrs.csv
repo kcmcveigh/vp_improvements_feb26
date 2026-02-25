@@ -102,9 +102,9 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 100,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,36,36,5,2,3,4,3,3,4,3,5,4
 101,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,42,42,6,4,5,5,4,4,3,2,6,3
 102,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,29,29,4,1,3,3,3,3,3,2,4,3
-103,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,17,17,1,0,2,2,2,2,2,2,3,1
+103,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,17,16,1,0,2,2,2,2,2,2,2,1
 104,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,39,39,5,3,4,3,3,4,5,3,5,4
-105,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,13,13,1,0,1,2,1,2,2,1,3,0
+105,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,13,12,1,0,1,2,1,2,2,1,2,0
 106,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,27,27,3,2,1,2,1,4,4,4,4,2
 107,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,35,35,4,2,4,3,4,4,3,4,4,3
 108,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,43,43,6,3,3,4,4,6,5,4,4,4
@@ -234,7 +234,7 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 232,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,22,22,2,0,3,3,2,2,3,2,3,2
 233,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,32,32,5,3,3,4,3,2,3,2,4,3
 234,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,7,7,2,0,0,1,0,2,1,0,1,0
-235,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,21,21,1,0,4,3,3,3,2,1,3,1
+235,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,21,20,1,0,4,3,3,3,2,1,2,1
 236,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,7,7,3,0,0,1,2,0,0,0,1,0
 237,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,27,27,4,3,3,3,2,3,3,3,3,0
 238,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,26,26,2,1,3,4,3,2,2,2,4,3
@@ -267,7 +267,7 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 265,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,31,31,3,1,4,4,2,4,4,4,3,2
 266,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,30,30,4,2,4,3,2,3,3,2,4,3
 267,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,33,33,5,3,3,3,2,4,5,3,3,2
-268,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,19,19,1,0,2,2,2,3,2,3,3,1
+268,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,19,18,1,0,2,2,2,3,2,3,2,1
 269,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,9,9,4,1,0,0,0,1,0,0,2,1
 270,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,28,28,3,1,3,2,2,4,4,3,4,2
 271,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,27,27,4,1,3,2,2,3,3,3,4,2
@@ -280,17 +280,17 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 278,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,17,17,2,0,2,2,2,2,3,1,3,0
 279,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,30,30,3,2,3,2,1,4,4,4,5,2
 280,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,22,22,3,1,2,1,0,3,3,3,4,2
-281,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,16,16,1,0,3,3,2,0,1,1,3,2
+281,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,16,15,1,0,3,3,2,0,1,1,2,2
 282,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,32,32,5,2,2,2,2,4,4,3,4,4
 283,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,29,29,5,1,4,4,3,2,3,2,3,2
 284,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,33,33,4,2,5,3,4,2,3,2,5,3
 285,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,16,16,2,1,0,1,1,3,3,3,2,0
 286,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,26,26,3,2,2,1,1,4,4,4,3,2
-287,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,10,10,0,0,1,1,1,0,1,0,4,2
+287,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,guarded,10,8,0,0,1,1,1,0,1,0,2,2
 288,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,31,31,5,3,2,2,2,5,4,4,3,1
 289,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,32,32,4,2,5,4,4,2,3,2,4,2
 290,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,19,19,3,1,2,2,1,3,3,2,1,1
-291,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,20,20,1,0,3,2,3,2,3,2,3,1
+291,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,20,19,1,0,3,2,3,2,3,2,2,1
 292,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,18,18,2,1,3,2,3,2,2,2,1,0
 293,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,29,29,4,3,3,3,3,2,4,1,4,2
 294,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,31,31,3,1,3,3,2,4,4,5,3,3
@@ -330,7 +330,7 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 328,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,30,30,4,2,2,2,2,4,5,4,3,2
 329,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,22,22,4,1,2,2,2,2,3,0,4,2
 330,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,25,25,5,3,2,2,3,2,1,1,4,2
-331,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,27,27,1,0,4,3,3,4,4,4,2,2
+331,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,27,29,3,0,4,3,3,4,4,4,2,2
 332,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,16,16,3,1,2,2,1,1,2,1,3,0
 333,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,29,29,3,3,2,3,3,2,4,2,5,2
 334,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,25,25,4,2,3,2,1,3,3,2,3,2
@@ -342,9 +342,9 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 340,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,24,24,3,2,2,3,3,2,2,1,4,2
 341,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,5,5,2,0,0,1,0,0,1,0,1,0
 342,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,15,15,2,1,1,1,2,1,1,2,3,1
-343,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,13,13,1,0,1,0,1,1,3,2,3,1
+343,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,13,12,1,0,1,0,1,1,3,2,2,1
 344,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,19,19,3,1,1,2,1,2,2,2,4,1
-345,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,17,17,1,0,2,2,3,2,2,1,3,1
+345,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,17,16,1,0,2,2,3,2,2,1,2,1
 346,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,41,41,4,3,3,6,5,4,5,5,4,2
 347,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,43,43,4,2,5,4,4,5,5,4,6,4
 348,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,31,31,3,1,3,4,4,4,3,3,4,2
@@ -398,18 +398,18 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 396,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,39,39,5,4,2,3,2,5,4,3,6,5
 397,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,36,36,4,3,4,5,4,4,4,2,4,2
 398,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,22,22,2,1,0,1,2,4,4,3,4,1
-399,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,22,22,1,0,3,4,4,1,2,1,4,2
+399,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,22,20,1,0,3,4,4,1,2,1,2,2
 400,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,39,39,6,3,3,3,4,4,4,4,5,3
 401,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,25,25,2,0,3,2,3,3,4,2,4,2
 402,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,26,26,4,2,2,2,3,2,3,3,4,1
-403,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,20,20,1,1,3,3,2,2,1,2,3,2
+403,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,20,19,1,1,3,3,2,2,1,2,2,2
 404,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,7,7,1,0,2,1,2,0,1,0,0,0
 405,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,36,36,6,4,4,4,4,3,3,3,3,2
-406,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,10,10,1,0,0,0,0,1,2,1,3,2
+406,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,10,9,1,0,0,0,0,1,2,1,2,2
 407,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,32,32,4,2,3,3,4,3,3,4,4,2
 408,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,29,29,4,2,3,2,2,4,3,3,4,2
 409,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,28,28,4,2,3,3,2,3,3,3,3,2
-410,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,11,1,0,0,1,0,2,3,1,3,0
+410,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,10,1,0,0,1,0,2,3,1,2,0
 411,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,20,20,3,1,1,2,1,2,3,2,3,2
 412,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,15,15,2,0,2,1,2,1,1,1,3,2
 413,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,irritable,38,38,5,4,4,5,4,2,3,3,5,3
@@ -473,7 +473,7 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 471,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,17,17,3,3,1,1,1,2,2,1,2,1
 472,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,direct_cooperative,30,30,4,4,3,3,3,4,2,2,3,2
 473,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,24,24,2,1,3,3,2,3,3,2,3,2
-474,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,14,14,1,0,1,1,1,3,2,1,3,1
+474,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,irritable,14,13,1,0,1,1,1,3,2,1,2,1
 475,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,30,30,4,3,2,4,3,3,4,3,4,0
 476,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,11,11,1,0,1,1,1,2,2,2,1,0
 477,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,37,37,5,3,4,4,3,4,3,3,5,3
@@ -481,7 +481,7 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 479,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,direct_cooperative,37,37,5,3,4,3,2,3,4,3,6,4
 480,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,42,42,3,2,5,5,4,5,5,3,6,4
 481,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,direct_cooperative,5,5,3,0,1,1,0,0,0,0,0,0
-482,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,12,12,1,0,0,0,1,2,3,1,3,1
+482,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,12,11,1,0,0,0,1,2,3,1,2,1
 483,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,5,5,2,0,0,0,0,0,0,0,2,1
 484,madrs,David,62,Retired Accountant,Feeling a loss of purpose and structure since retiring. His social circle has become smaller.,guarded,5,5,1,0,1,1,1,0,1,0,0,0
 485,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,10,10,1,0,2,2,1,1,0,0,1,2
@@ -491,7 +491,7 @@ profile_id,scale,persona_name,persona_age,persona_occupation,persona_life_situat
 489,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,33,33,3,2,3,2,3,4,3,3,5,5
 490,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,direct_cooperative,43,43,6,4,5,4,4,3,3,3,6,5
 491,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,55,55,6,4,6,5,5,6,6,5,6,6
-492,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,11,1,0,2,2,2,0,0,0,3,1
+492,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,guarded,11,10,1,0,2,2,2,0,0,0,2,1
 493,madrs,Elena,22,University Student,Struggling with academic pressure and feeling isolated after moving to a new city for school.,irritable,24,24,3,1,2,2,1,4,3,3,4,1
 494,madrs,Susan,48,Librarian,Recently divorced and adjusting to living alone after her children left for college (empty nest syndrome).,irritable,32,32,5,2,4,4,3,2,2,1,6,3
 495,madrs,Brian,35,Construction Foreman (recently laid off),Dealing with unemployment and the financial stress of supporting his family.,guarded,33,33,5,2,4,3,3,2,3,3,5,3

@@ -92,9 +92,9 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 101,42,42,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
 101,42,42,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=2 < min_allowed=3 (REPORTED_SADNESS=6)
 102,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
-103,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+103,17,16,generating,total_matches_target,actual_total=16 != target_score=17
 104,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
-105,13,13,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+105,13,12,generating,total_matches_target,actual_total=12 != target_score=13
 107,35,35,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 108,43,43,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
 109,13,13,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
@@ -207,7 +207,7 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 233,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
 234,7,7,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
 234,7,7,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
-235,21,21,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+235,21,20,generating,total_matches_target,actual_total=20 != target_score=21
 236,7,7,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
 236,7,7,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
 239,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
@@ -239,7 +239,7 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 265,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 266,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 267,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
-268,19,19,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+268,19,18,generating,total_matches_target,actual_total=18 != target_score=19
 269,9,9,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
 269,9,9,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
 270,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
@@ -250,18 +250,18 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 275,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 278,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
 280,22,22,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
-281,16,16,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
-281,16,16,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+281,16,15,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+281,16,15,generating,total_matches_target,actual_total=15 != target_score=16
 282,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
 283,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=5 (diff=4)
 284,33,33,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
-287,10,10,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
-287,10,10,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=4 but REPORTED_SADNESS=0
-287,10,10,clinical,mood_gate_pessimism,REPORTED_SADNESS=0 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+287,10,8,generating,suicidal_zero_when_no_sadness,SUICIDAL_THOUGHTS=2 but REPORTED_SADNESS=0
+287,10,8,generating,pessimism_zero_when_no_sadness,PESSIMISTIC_THOUGHTS=2 but REPORTED_SADNESS=0
+287,10,8,generating,total_matches_target,actual_total=8 != target_score=10
 288,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
 289,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 290,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
-291,20,20,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+291,20,19,generating,total_matches_target,actual_total=19 != target_score=20
 293,29,29,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
 294,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 295,14,14,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
@@ -298,8 +298,8 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 329,22,22,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=2 (REPORTED_SADNESS=4)
 330,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
 330,25,25,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=5)
-331,27,27,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
-331,27,27,clinical,anhedonia_requires_sadness,INABILITY_TO_FEEL=4 >= 4 but REPORTED_SADNESS=1 < 2
+331,27,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
+331,27,29,generating,total_matches_target,actual_total=29 != target_score=27
 332,16,16,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 334,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 335,46,46,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
@@ -309,9 +309,9 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 339,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
 341,5,5,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
 341,5,5,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
-343,13,13,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+343,13,12,generating,total_matches_target,actual_total=12 != target_score=13
 344,19,19,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
-345,17,17,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+345,17,16,generating,total_matches_target,actual_total=16 != target_score=17
 347,43,43,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 348,31,31,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 349,43,43,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
@@ -352,21 +352,20 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 391,30,30,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 393,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 394,23,23,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
-399,22,22,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
-399,22,22,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=4 > max_allowed=3 (REPORTED_SADNESS=1)
-399,22,22,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=4 > 2
+399,22,20,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+399,22,20,generating,total_matches_target,actual_total=20 != target_score=22
 400,39,39,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=6 (diff=3)
 401,25,25,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
 402,26,26,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
-403,20,20,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
-403,20,20,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+403,20,19,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+403,20,19,generating,total_matches_target,actual_total=19 != target_score=20
 405,36,36,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
-406,10,10,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
-406,10,10,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+406,10,9,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
+406,10,9,generating,total_matches_target,actual_total=9 != target_score=10
 407,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 408,29,29,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 409,28,28,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
-410,11,11,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+410,11,10,generating,total_matches_target,actual_total=10 != target_score=11
 411,20,20,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 412,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
 414,17,17,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
@@ -414,7 +413,7 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 469,12,12,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
 470,15,15,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=4 (diff=3)
 470,15,15,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
-474,14,14,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+474,14,13,generating,total_matches_target,actual_total=13 != target_score=14
 477,37,37,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=3 vs REPORTED_SADNESS=5 (diff=2)
 478,18,18,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=4 (diff=2)
 478,18,18,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=4)
@@ -423,7 +422,7 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 480,42,42,generating,pessimistic_thoughts_bounded_by_sadness,PESSIMISTIC_THOUGHTS=6 > max_allowed=5 (REPORTED_SADNESS=3)
 481,5,5,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=3 (diff=3)
 481,5,5,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=3)
-482,12,12,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+482,12,11,generating,total_matches_target,actual_total=11 != target_score=12
 483,5,5,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=0 vs REPORTED_SADNESS=2 (diff=2)
 483,5,5,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=0 < min_allowed=1 (REPORTED_SADNESS=2)
 485,10,10,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=2 > max_allowed=1 (REPORTED_SADNESS=1)
@@ -433,7 +432,7 @@ profile_id,target_score,actual_total_score,rule_type,rule,detail
 489,33,33,generating,suicidal_thoughts_bounded_by_sadness,SUICIDAL_THOUGHTS=5 > max_allowed=3 (REPORTED_SADNESS=3)
 490,43,43,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
 491,55,55,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=4 vs REPORTED_SADNESS=6 (diff=2)
-492,11,11,clinical,mood_gate_pessimism,REPORTED_SADNESS=1 <= 1 but PESSIMISTIC_THOUGHTS=3 > 2
+492,11,10,generating,total_matches_target,actual_total=10 != target_score=11
 493,24,24,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=1 vs REPORTED_SADNESS=3 (diff=2)
 494,32,32,generating,apparent_sadness_within_1_of_reported,APPARENT_SADNESS=2 vs REPORTED_SADNESS=5 (diff=3)
 494,32,32,generating,anhedonia_floor_by_sadness,INABILITY_TO_FEEL=1 < min_allowed=2 (REPORTED_SADNESS=5)
